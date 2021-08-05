@@ -1,3 +1,5 @@
+```html
+<font color="white">
 Вот это будет текстом
 
 
@@ -5,3 +7,5 @@
 
 ![image](https://user-images.githubusercontent.com/88481824/128315305-864b9447-ca7b-4fed-8c8f-a81565310d14.png)
 
+</font>
+```
